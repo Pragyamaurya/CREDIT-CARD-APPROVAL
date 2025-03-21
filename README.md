@@ -1,4 +1,6 @@
 # CREDIT-CARD-APPROVoval
+# I have created a model which well helping the manager to approving the creditcard
+ 
 
 1. Title: Credit Approval
 
@@ -46,5 +48,4 @@
     +: 307 (44.5%)
     -: 383 (55.5%)
 
- I have created a model which well helping the manager to approving the creditcard
- 
+
